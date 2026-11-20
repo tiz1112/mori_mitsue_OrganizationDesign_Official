@@ -14,7 +14,8 @@ morimitsue-site/
 ├── index.html          ページ本体(文字・デザインはすべてこの1ファイル)
 ├── README.md           このファイル
 └── photos/
-    ├── mori-studio-mono.jpg       プロフィール・相談窓口の丸写真に使用
+    ├── mori-studio-mono.jpg       プロフィールに使用
+    ├── mori-avatar-mono.jpg       相談窓口の丸写真に使用(上の写真から顔を中心に正方形に切り出したもの)
     └── mori-seated-wide-mono.jpg  「信条」の帯に使用
 ```
 
